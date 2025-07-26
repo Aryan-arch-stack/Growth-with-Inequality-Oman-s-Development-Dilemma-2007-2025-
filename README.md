@@ -15,7 +15,6 @@ This repository presents a comprehensive research project analyzing **Oman’s s
 - **Python & Pandas** for preprocessing (if extended to data wrangling)
 - **Microsoft Excel** for tabular compilation and projections
 - **Datawrapper** for professional-grade data visualizations
-- **Canva** and **PowerPoint** (optional) for graphic layout and presentation design
 - **UNDP, World Bank, WEF Reports** for reference data sources
 
 # 🤝 Acknowledgements
